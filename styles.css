@@ -1,1 +1,60 @@
 /* Styles for the Advanced Markup assignment. */
+/* Styles for the Advanced Markup assignment. */
+nav ul li {
+  display: inline; 
+}
+a.active {
+font-weight: bold;   
+}
+#sidebar {
+width: 250px;
+float: right;
+background: darkkhaki;
+margin: 20px;
+padding: 10px;
+color: darkblue;
+text-align: left
+}
+body {
+  
+  background-postition: center;
+  background-repeat: repeat;
+  background-image: url("http://wall-papers.info/images/background-wood/background-wood-5.jpg");
+  font-family: 'Comic Sans MS', sans-serif;
+  color: white;
+  text-align: center; 
+}
+
+h1 {
+  
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+    font-size: small;
+    background-color: moccasin;
+    margin: 20px;
+    padding: 40px;
+    color: darkblue;  
+}
+h4 {
+    font-size: small;
+    background-color: moccasin;
+    margin: 20px;
+    padding: 40px;
+    color: darkblue; 
+}
+h5 {
+  text-align: center; 
+  color: white; 
+}
+h6 {
+  text-align: left; 
+  color: white; 
+  font-size: medium; 
+}
+
+} h1,h2,h3,h5,h6 {
+  font-family: ‘Courier New’, Courier, monospace;
